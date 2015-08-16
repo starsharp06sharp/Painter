@@ -23,4 +23,5 @@
     Private Sub Painter_ResizeEnd(sender As Object, e As EventArgs) Handles Me.ResizeEnd
         m_canvas.reSize()
     End Sub
+
 End Class
